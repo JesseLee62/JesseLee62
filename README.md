@@ -7,7 +7,7 @@
 [![Views](https://komarev.com/ghpvc/?username=jc-hiroto&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/JesseLee62)
 
 
-### A graduate student in Computer Science at UTD. 
+### A graduate student in Computer Science. 
 
 🧠 I am experienced in **Full Stack Development**, **Embedded Systems** and **AI/ML**.    
 Recently, I've been working on **Java**, **C**, **Python**, and **JS/TS**.
