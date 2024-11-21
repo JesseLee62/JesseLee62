@@ -27,10 +27,12 @@ Recently, I've been working on **Java**, **C**, **Python**, and **JS/TS**.
 - Spring Boot
 - Node.js, Express.js
 - React.js
+- jQuery
 - PyTorch
 - TensorFlow
 - Bootstrap
 - Postman
+- AWS
 - Git/GitHub
 
 ### 💾 Databases
