@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/JesseLee62/img-storage/blob/master/memoji-laptop.png" width="200" height="auto" style="margin-bottom: -10px;"/>
-  <h1>Hi 👋, I'm Jesse!</h1>
+  <h1 style="margin-top: 0;">Hi 👋, I'm Jesse!</h1>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jesselee62)
